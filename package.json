@@ -1,7 +1,8 @@
 {
-  "name": "spiderindia",
+  "name": "SpiderProject",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tejaulli98.github.io/SpiderProject",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -12,11 +13,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "./node_modules/react-scripts/bin/react-scripts.js build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "./node_modules/gh-pages/bin/gh-pages.js -d build"
+	"deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

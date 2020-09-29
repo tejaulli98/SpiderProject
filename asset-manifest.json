@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SpiderProject/static/css/main.007df983.chunk.css",
+    "main.js": "/SpiderProject/static/js/main.af567dbd.chunk.js",
+    "main.js.map": "/SpiderProject/static/js/main.af567dbd.chunk.js.map",
+    "runtime-main.js": "/SpiderProject/static/js/runtime-main.a481d299.js",
+    "runtime-main.js.map": "/SpiderProject/static/js/runtime-main.a481d299.js.map",
+    "static/js/2.60d1cff0.chunk.js": "/SpiderProject/static/js/2.60d1cff0.chunk.js",
+    "static/js/2.60d1cff0.chunk.js.map": "/SpiderProject/static/js/2.60d1cff0.chunk.js.map",
+    "index.html": "/SpiderProject/index.html",
+    "precache-manifest.cb7f98582e4477bcac249490ccf875d5.js": "/SpiderProject/precache-manifest.cb7f98582e4477bcac249490ccf875d5.js",
+    "service-worker.js": "/SpiderProject/service-worker.js",
+    "static/css/main.007df983.chunk.css.map": "/SpiderProject/static/css/main.007df983.chunk.css.map",
+    "static/js/2.60d1cff0.chunk.js.LICENSE.txt": "/SpiderProject/static/js/2.60d1cff0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SpiderProject/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a481d299.js",
+    "static/js/2.60d1cff0.chunk.js",
+    "static/css/main.007df983.chunk.css",
+    "static/js/main.af567dbd.chunk.js"
+  ]
+}
